@@ -4,3 +4,6 @@
 [submodule "vim/pack/colorschemes/start/vim-hybrid"]
 	path = vim/pack/colorschemes/start/vim-hybrid
 	url = https://github.com/w0ng/vim-hybrid
+[submodule "vim/pack/colorschemes/start/vim-one"]
+	path = vim/pack/colorschemes/start/vim-one
+	url = https://github.com/rakr/vim-one
