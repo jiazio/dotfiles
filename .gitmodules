@@ -1,3 +1,6 @@
 [submodule "vim/pack/plugins/start/lightline.vim"]
 	path = vim/pack/plugins/start/lightline.vim
 	url = https://github.com/itchyny/lightline.vim
+[submodule "vim/pack/colorschemes/start/vim-hybrid"]
+	path = vim/pack/colorschemes/start/vim-hybrid
+	url = https://github.com/w0ng/vim-hybrid
