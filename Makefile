@@ -2,8 +2,8 @@
 
 all: tmux zsh
 
-tmux: tmux.conf
-	ln -s $(CURDIR)/tmux.conf ~/.tmux.conf
+tmux:
+	ln -s -f $(CURDIR)/tmux.conf ~/.tmux.conf
 
-zsh: zshrc
-	ln -s $(CURDIR)/zshrc ~/.zshrc
+zsh:
+	ln -s -f $(CURDIR)/zshrc ~/.zshrc
