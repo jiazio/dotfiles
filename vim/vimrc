@@ -1,0 +1,21 @@
+set nocompatible
+set autoindent
+set t_vb=
+set mouse=
+set noerrorbells
+set notitle
+set cursorline
+set number
+set tabstop=4
+set shiftwidth=4
+set laststatus=2
+set foldmethod=marker
+set t_Co=256
+set background=dark
+colorscheme one
+filetype plugin indent on
+syntax on
+
+let g:lightline = {
+	\ 'colorscheme': 'wombat',
+	\ }
