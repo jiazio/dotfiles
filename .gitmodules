@@ -7,3 +7,6 @@
 [submodule "vim/pack/colorschemes/start/vim-one"]
 	path = vim/pack/colorschemes/start/vim-one
 	url = https://github.com/rakr/vim-one
+[submodule "vim/pack/plugins/start/ctrlp.vim"]
+	path = vim/pack/plugins/start/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim
